@@ -1,0 +1,48 @@
+body {
+	font-family: verdana, sans-serif;
+	font-size: 11pt;
+}
+
+p {
+	padding-left: 2em;
+}
+
+h1 {
+	border-bottom: 3px solid #8888ff;
+}
+
+h2 {
+	border-bottom: 2px solid #8888ff;
+}
+
+h3 {
+	border-bottom: 1px solid #8888ff;
+	cursor: pointer;
+	margin-left: 1em;
+}
+
+ul {
+	list-style: none;
+	padding-left: 2em;
+}
+
+li {
+	padding: 0.5ex;
+	margin-bottom: 1ex;
+}
+
+li.journ {
+	background-color: #ffff88;
+}
+
+img#photo {
+	float: right;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	border: 2px solid #8888ff;
+}
+
+a.secret {
+	color: black;
+	text-decoration: none;
+}

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Orange Helicopter</title>
+	<founding-date>12 December 2013</founding-date>
+	<website>http://www.orangehelicopter.com/</website>
+	<based-in>York, UK</based-in>
+	
+	<press-contact>ed@orangehelicopter.com</press-contact>
+	<phone></phone>
+	<!--<address>
+		<line>Address Line 1</line>
+		<line>Address Line 2</line>
+		<line>Address Line 3</line>
+	</address>-->
+
+	<socials>
+		<social>
+			<name>twitter.com/btdsys</name>
+			<link>twitter.com/btdsys</link>
+		</social>
+		<social>
+			<name>twitter.com/OrangeHeli</name>
+			<link>twitter.com/OrangeHeli</link>
+		</social>
+	</socials>
+
+	<description>	
+		Orange Helicopter is a one-man games studio, founded by former game AI researcher Ed Powley, and based in York, UK.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>
+				Many games companies have been founded by university dropouts.
+				I decided to go a less conventional route: I graduated, got a PhD and spent several years working as a researcher before dropping out.
+				My research was on artificial intelligence for board and card games.
+				As well as publishing a number of &lt;a href="http://scholar.google.co.uk/citations?user=ERihGdQAAAAJ"&gt;journal and conference articles&lt;/a&gt;,
+				my work found its way into the popular Android game &lt;a href="https://play.google.com/store/apps/details?id=uk.co.aifactory.spadesfree"&gt;Spades Free&lt;/a&gt; by AI Factory.
+				However I eventually decided that making games from start to finish might be more fun than just making AI.
+			</text>
+		</history>
+		<history>
+			<header>Now</header>
+			<text>
+				Orange Helicopter's first title will be Blobjam, a physics-based action puzzle game.
+			</text>
+		</history>
+		<history>
+			<header>The name</header>
+			<text>
+				I read somewhere that (random colour) + (random object) was a good way to come up with a memorable company name.
+				Orange Helicopter was the first combination I tried where the .com domain was available.
+				(Note to self: need to ret-con a more interesting origin story for the name.)
+			</text>
+		</history>
+	</histories>
+	
+	<trailers>
+		<trailer>
+			<name>Blobjam gameplay</name>
+			<youtube>9QpZuKnQHjc</youtube>
+		</trailer>
+	</trailers>
+	
+	<!-- <awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes>
+	-->
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<!--<additionals>
+		<additional>
+			<title>Company Link #1</title>
+			<description>This link is a link that might be useful. You can check it out at</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+	</additionals>-->
+	
+	<credits>
+		<credit>
+			<person>Ed Powley</person>
+			<role>Everything</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>ed@orangehelicopter.com</mail>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/btdsys</link>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/OrangeHeli</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://www.facebook.com/OrangeHelicopterGames</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://www.orangehelicopter.com</link>
+		</contact>
+	</contacts>
+</game>

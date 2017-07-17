@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Blobjam</title>
+	<release-date>May 2014</release-date>
+	<website>http://www.blobjam.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Android (out now)</name>
+			<link>https://play.google.com/store/apps/details?id=com.orangehelicopter.blobjam</link>
+		</platform>
+		<platform>
+			<name>iOS (coming soon)</name>
+			<!-- <link>http://www.steampowered.com/</link> -->
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency></currency>
+			<value>Free (with ads and IAP)</value>
+		</price>
+	</prices>
+
+	<description>
+	A modern twist on classic bubble popping gameplay!
+	Shoot the blobs to match 3 of the same colour and pop them. Blobjam has realistic physics, so aim carefully -- those blobs have a habit of squidging around in ways you don't expect.
+	</description>
+	
+	<history>
+	Blobjam is Orange Helicopter's first game.
+	What started out as a happy childhood memory of Puzzle Bobble, an experiment with OpenGL shaders and a desire to use Box2D physics for something eventually transformed into a full game.
+	It's called Blobjam because I had toast and jam for breakfast that morning, and Blobtoast would be a stupid name.
+	</history>
+
+	<features>
+		<feature>Endless match-3 gameplay with realistic physics.</feature>
+		<feature>Compare scores with your Facebook friends and the rest of the world.</feature>
+		<feature>Collect falling coins and use them to buy power-ups.</feature>
+		<feature>Complete missions to earn more coins.</feature>
+		<feature>Free-to-play, supported by ads and optional in-app purchases of coins.</feature>
+	</features>
+	
+	<trailers>
+		<trailer>
+			<name>Gameplay</name>
+			<youtube>9QpZuKnQHjc</youtube>
+			<!-- <vimeo>23571681</vimeo> -->
+		</trailer>
+	</trailers>
+	
+	<!-- <awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards> -->
+	
+	<!-- <quotes>
+		<quote>
+			<description>That should have gone through that gap!</description>
+			<name>Everyone</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+	</quotes> -->
+	
+	<!-- <additionals>
+		<additional>
+			<title>Android beta</title>
+			<description>To test the beta version for Android, join the following group using the Google account you use for the Play store:</description>
+			<link>https://groups.google.com/forum/#!forum/blobjam-beta-testers</link>
+		</additional>
+	</additionals> -->
+	
+	<credits>
+		<credit>
+			<person>Ed Powley</person>
+			<role>Everything</role>
+		</credit>
+	</credits>
+</game>

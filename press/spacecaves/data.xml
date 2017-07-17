@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>SpaceCaves</title>
+	<release-date>2015</release-date>
+	<website>http://www.orangehelicopter.com/spacecaves/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>Windows PC / Mac / Linux</name>
+			<link>.</link>
+		</platform>
+		<platform>
+			<name>Other platforms TBD</name>
+			<link>.</link>
+		</platform>
+	</platforms>
+	
+	<!--
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>				
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices>
+	-->
+
+	<description>
+	&lt;b&gt;SpaceCaves&lt;/b&gt; is a retro-styled 2D twin-stick shooter with elements from stealth games, roguelikes and RPGs.
+	</description>
+	
+	<history>
+	I used to be an AI researcher, and one of the projects I worked on was the &lt;a href="http://www.ptsp-game.net/"&gt;Physical Travelling Salesman Problem&lt;/a&gt;,
+	where the aim is to pilot an Asteroids-like spaceship around a maze as quickly as possible.
+	But then I came to think: What if you could just blast your way through the walls of the maze?
+	And what if the mazes were randomly generated?
+	And what if there were enemies trying to kill you as well, but you had the option of out-stealthing them?
+	And why, when every other indie game boasts of "retro-styled graphics", doesn't the &lt;a href="http://en.wikipedia.org/wiki/Vectrex"&gt;Vectrex&lt;/a&gt; get any love?
+	SpaceCaves is my answer to all of these questions and more.
+	</history>
+
+	<features>
+		<feature>Procedurally generated levels -- no two playthroughs are the same</feature>
+		<feature>Fully destructible levels with realistic 2D physics</feature>
+		<feature>Retro Vectrex-style graphics, because pixels are boring and vectors are awesome</feature>
+		<feature>Billions of procedurally generated enemy species, all with unique and challenging AI</feature>
+		<feature>Huge skill tree, roguelike play time -- all of the customisation, none of the grind</feature>
+		<feature>Ragdoll physics!</feature>
+		<feature>Play your way -- Will you take out enemies with deadly accuracy? Slip by them stealthily? Or just obliterate everything in your path?</feature>
+	</features>
+	
+	<!--
+	<trailers>
+		<trailer>
+			<name>Trailer</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+		<trailer>
+			<name>Gameplay Video</name>
+			<youtube>7jQbITg0MSk</youtube>
+			<vimeo>23571681</vimeo>
+		</trailer>
+	</trailers>
+	
+	<awards>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+		<award>
+			<description>Winner in this highly relevant contest.</description>
+			<info>Award Location, 20 October, 1989</info>
+		</award>
+		<award>
+			<description>Nomination for this prestigious award.</description>
+			<info>Award Ceremony, 4 December, 1991</info>
+		</award>
+	</awards>
+	
+	<quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes>
+	
+	<additionals>
+		<additional>
+			<title>Original Soundtrack</title>
+			<description>Available for free from</description>
+			<link>http://somemusicsite.com/thislink</link>
+		</additional>
+		<additional>
+			<title>Release Blog Post</title>
+			<description>The blog-post through which this game was released is available at</description>
+			<link>http://vlambeer.com/bloglink</link>
+		</additional>
+	</additionals>
+	-->
+	
+	<credits>
+		<credit>
+			<person>Ed Powley</person>
+			<role>Everything</role>
+		</credit>
+	</credits>
+</game>
