@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
-<game>	
+<company>	
 	<title>Orange Helicopter</title>
 	<founding-date>12 December 2013</founding-date>
 	<website>http://www.orangehelicopter.com/</website>
-	<based-in>York, UK</based-in>
+	<based-in>Cornwall, UK</based-in>
 	
 	<press-contact>ed@orangehelicopter.com</press-contact>
 	<phone></phone>
@@ -154,4 +154,4 @@
 			<link>http://www.orangehelicopter.com</link>
 		</contact>
 	</contacts>
-</game>
+</company>
